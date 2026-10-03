@@ -1,0 +1,13 @@
+CustomerID,CustomerName,City,Age,OrderID,Product,Category,Quantity,Price,OrderDate,Total_Sales
+C01,Rahul,Indore,25,1001,Laptop,Electronics,1,60000,2026-01-05,60000
+C03,Priya,Rewa,24,1004,Laptop,Electronics,1,60000,2026-02-02,60000
+C06,Pooja,Bhopal,26,1009,Laptop,Electronics,1,60000,2026-03-15,60000
+C02,Amit,Bhopal,28,1002,Mobile,Electronics,2,25000,2026-01-08,50000
+C07,Arjun,Jabalpur,32,1010,Mobile,Electronics,1,25000,2026-03-18,25000
+C05,Rohit,Indore,27,1007,Mobile,Electronics,1,25000,2026-03-03,25000
+C03,Priya,Rewa,24,1008,Keyboard,Accessories,4,1500,2026-03-10,6000
+C05,Rohit,Indore,27,1012,Keyboard,Accessories,3,1500,2026-03-25,4500
+C08,Anjali,Rewa,23,1011,Mouse,Accessories,5,800,2026-03-20,4000
+C04,Neha,Jabalpur,30,1005,Keyboard,Accessories,2,1500,2026-02-10,3000
+C01,Rahul,Indore,25,1003,Mouse,Accessories,3,800,2026-01-12,2400
+C02,Amit,Bhopal,28,1006,Mouse,Accessories,2,800,2026-02-15,1600
